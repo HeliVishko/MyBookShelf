@@ -4,7 +4,7 @@ const BookData = (props) => {
 
   return (
     <div>
-      <div>{`שם הספר: ${bookName}`}</div>
+      <div>{`שם הספר: ${bookName}!`}</div>
       <div>{`שם הסופר: ${author}`}</div>
       <div>{`שנת הוצאה: ${publishYear}`}</div>
     </div>
